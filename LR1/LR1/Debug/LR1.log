@@ -1,0 +1,4 @@
+﻿  LR1.cpp
+C:\Users\nialt\OneDrive\Documents\GitHub\chisl_metodi\LR1\LR1\LR1.cpp(49): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\nialt\OneDrive\Documents\GitHub\chisl_metodi\LR1\LR1\LR1.cpp(50): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  LR1.vcxproj -> C:\Users\nialt\OneDrive\Documents\GitHub\chisl_metodi\LR1\Debug\LR1.exe

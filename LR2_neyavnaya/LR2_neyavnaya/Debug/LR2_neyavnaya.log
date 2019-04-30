@@ -1,0 +1,4 @@
+﻿  LR2_neyavnaya.cpp
+C:\Users\nialt\OneDrive\Documents\GitHub\chisl_metodi\LR2_neyavnaya\LR2_neyavnaya\LR2_neyavnaya.cpp(52): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\nialt\OneDrive\Documents\GitHub\chisl_metodi\LR2_neyavnaya\LR2_neyavnaya\LR2_neyavnaya.cpp(53): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  LR2_neyavnaya.vcxproj -> C:\Users\nialt\OneDrive\Documents\GitHub\chisl_metodi\LR2_neyavnaya\Debug\LR2_neyavnaya.exe
